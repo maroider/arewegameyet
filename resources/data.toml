@@ -1,0 +1,108 @@
+[[items]]
+name = "A game in Rust"
+description = "Post-mortem"
+categories = ["article"]
+homepage_url = "//thiolliere.org/jekyll/update/2016/10/29/a-game-in-Rust.html"
+
+[[items]]
+name = "Awesome Rust"
+description = "A curated list of Rust code and resources, inspired by other awesome lists"
+categories = ["lists"]
+homepage_url = "//github.com/kud1ing/awesome-rust"
+
+[[items]]
+name = "Awesome wgpu"
+description = "A curated list of wgpu code and resources"
+categories = ["lists"]
+homepage_url = "//github.com/rofrol/awesome-wgpu"
+
+[[items]]
+name = "Building WebGPU with Rust"
+description = "A talk about wgpu's architecture and implementation (FOSDEM 2020)"
+categories = ["videos"]
+homepage_url = "//fosdem.org/2020/schedule/event/rust_webgpu"
+
+[[items]]
+name = "Creating a Pong clone with Rust and Tetra"
+description = "A beginner-friendly guide to building games in Rust"
+categories = ["tutorials"]
+homepage_url = "//tetra.seventeencups.net/tutorial"
+
+[[items]]
+name = "Developing a game with Rust beginners"
+description = "Some thoughts on tools and libraries"
+categories = ["articles"]
+homepage_url = "//lukaskalbertodt.github.io/2016/09/01/developing-a-game-with-Rust-beginners-some-thoughts-on-tools-and-libraries.html"
+
+[[items]]
+name = "Game Server in 150 lines of Rust"
+description = "This tutorial will show you how to write a simple game server"
+categories = ["tutorials"]
+homepage_url = "//medium.com/@buterajay/game-server-in-150-lines-of-rust-ce1782199907"
+
+[[items]]
+name = "Graphics by Squares"
+description = "A gfx-rs tutorial"
+categories = ["tutorials"]
+homepage_url = "//suhr.github.io/gsgt"
+
+[[items]]
+name = "Learn OpenGL with Rust"
+description = "A Rust port of the code for the excellent OpenGL tutorials at learnopengl.com"
+categories = ["tutorials"]
+homepage_url = "//github.com/bwasty/learn-opengl-rs"
+
+[[items]]
+name = "Overview of Open Source Game Engines in Rust"
+description = "An overview of which engines and libraries to use"
+categories = ["articles"]
+homepage_url = "//www.shadercat.com/overview-of-open-source-game-engines-in-rust/"
+
+[[items]]
+name = "Rocket - a Rust Game Running on WASM"
+description = "A writeup on the making of the WASM port of a game Rocket"
+categories = ["article"]
+homepage_url = "//aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm"
+
+[[items]]
+name = "Roguelike Tutorial in Rust + tcod"
+description = "This tutorial will show you how to write a roguelike in the Rust programming language and the libtcod library"
+categories = ["tutorials"]
+homepage_url = "//tomassedovic.github.io/roguelike-tutorial/"
+
+[[items]]
+name = "Rust by Example"
+description = "A collection of runnable examples that illustrate various Rust concepts and standard libraries"
+categories = ["books"]
+homepage_url = "//doc.rust-lang.org/stable/rust-by-example/"
+
+[[items]]
+name = "Rust game development tutorial with specs ECS and SDL2"
+description = "Each commit in this repo is a step in a game development tutorial"
+categories = ["tutorials"]
+homepage_url = "//github.com/sunjay/rust-simple-game-dev-tutorial"
+
+[[items]]
+name = "Rust Roguelike Tutorial by Herbert Wolverson"
+description = "A deep and detailed tutorial about designing and implementing roguelike games in Rust"
+categories = ["books", "tutorials"]
+homepage_url = "//bfnightly.bracketproductions.com/rustbook"
+repository_url = "//github.com/thebracket/rustrogueliketutorial"
+
+[[items]]
+name = "The Rust Book"
+description = "The Rust language official book"
+categories = ["books"]
+homepage_url = "//doc.rust-lang.org/book/"
+
+[[items]]
+name = "Using Rust For Game Development, by Catherine West"
+description = "Making games using Rust, Lua and the ECS design pattern"
+categories = ["articles", "videos"]
+homepage_url = "//kyren.github.io/2018/09/14/rustconf-talk.html"
+
+[[items]]
+name = "Writing a Raytracer in Rust"
+description = "3-part series of posts on writing a simple raytracer in Rust"
+categories = ["articles"]
+homepage_url = "//bheisler.github.io/post/writing-raytracer-in-rust-part-1/"
